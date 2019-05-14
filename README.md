@@ -4,8 +4,8 @@ This is a central repository for common commands and patterns you'll use in your
 
 ## Table Of Contents
 
-- [Command Line](command_line.md)
-- [Node](node.md)
-- [React](react.md)
-- [Redux](redux.md)
-- [SQL](sql.md)
+- [Common System Commands](./common/command_line.md)
+- [Node](./node/node.md)
+- [React](./react/react.md)
+- [Redux](./redux/redux.md)
+- [SQL](./sql/sql.md)
